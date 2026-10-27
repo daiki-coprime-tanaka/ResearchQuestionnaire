@@ -2,8 +2,8 @@
 Revise: 27, oct, 2026
 
 ## 注意事項/Precautions
-- ここで公開しているファイルは, 私の卒業研究と卒業論文用のものです.
-- The files made available here are for my graduation research and thesis.
+- ここで公開しているアンケートは, 私の卒業研究と卒業論文用のものです.
+- The questionnaires made available here are for my graduation research and thesis.
 
 ## 内容/Contents
 - このページからは4種類のアンケートを閲覧・回答することができます.
@@ -23,4 +23,4 @@ Revise: 27, oct, 2026
 
 ### M1F1
 - 最後の記述式設問が必須回答であり, SD法の設問の指標が反転している. (相互効果)
-- The final open-ended questions are mandatory, and the scoring scale for the SD-method items is reversed. (Interaction effect)
+- The final open-ended questions are mandatory, and the scoring scale for the SD-method items are reversed. (Interaction effect)

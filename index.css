@@ -34,7 +34,7 @@ button.Answer {
   border-radius: 3px;
 }
 
-button.Play:active {
+button.Answer:active {
   /*ボタンを押したとき*/
   transform: translateY(4px);/*下に動く*/
   border-bottom: none;/*線を消す*/

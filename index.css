@@ -1,15 +1,29 @@
 :root{
     /*類似色3*/
     --main: #750; 
-    --accent: #C60;
+    --accent: #669;
 
     --base: #EEE; /*#A40*/
+    --text: #111;
+
+    --November: #B34;
+    --December: #084;
+    --January: #D60;
+    --February: #D67;
+}
+
+html {
+    font-size: 62.5%;
+    background: var(--base);
+    color: var(--text);
+    font-weight: 400;
 }
 
 body {
     font-family: sans-serif;
     margin: 20px;
     background-color: var(--base);
+    font-size: 1.8rem;
 }
 
 h1 {
@@ -38,4 +52,44 @@ button.Answer:active {
   /*ボタンを押したとき*/
   transform: translateY(4px);/*下に動く*/
   border-bottom: none;/*線を消す*/
+}
+
+div.November {
+    border-left: 8px solid var(--November);
+    padding-left: 10px;
+}
+
+div.December {
+    border-left: 8px solid var(--December);
+    padding-left: 10px;
+}
+
+div.January {
+    border-left: 8px solid var(--January);
+    padding-left: 10px;
+}
+
+div.February {
+    border-left: 8px solid var(--February);
+    padding-left: 10px;
+}
+
+h4.November {
+    color: var(--November);
+    font-weight: 600;
+}
+
+h4.December {
+    color: var(--December);
+    font-weight: 800;
+}
+
+h4.January {
+    color: var(--January);
+    font-weight: 1000;
+}
+
+h4.February {
+    color: var(--February);
+    font-weight: 1200;
 }
